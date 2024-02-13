@@ -1,4 +1,4 @@
-![Vibehut.io](images/logo.png)
+![Vibehut.io API](images/header.png)
 # Vibehut API
 
 The Vibehut API provides RESTful endpoints for you to interact easily with Vibehut's data.. so you can help manage and accelerate the good vibes 💪
