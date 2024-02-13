@@ -61,6 +61,26 @@ The root url is always `https://vibehut.io/api/v1/public/` so events is `https:/
 - commonly used params: roomSlug, roomId, desoPublicKey
 - filterBy [popular, upcoming, new]
 
+Returns
+```js
+      _id: '64ade89038ce4c001462f23f',
+      cover: [Object],
+      isPaidEvent: false,
+      price: 0,
+      isPasswordProtected: false,
+      title: 'Weekly Vibehut Platform Call',
+      description: '',
+      startDate: '2023-08-08T22:00:00.000Z',
+      endDate: '2023-08-08T23:00:00.000Z',
+      room: [Object],
+      createdAt: '2023-07-11T23:41:04.416Z',
+      rsvps: [Array],
+      rsvp_count: 46,
+      eventOwner: [Object],
+      isAccessibleEvent: true
+    }
+```
+
 `/calls` - create new instant call link
 
 `/calls/active-calls` - see what calls are currently active
