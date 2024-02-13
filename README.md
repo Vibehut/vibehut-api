@@ -5,7 +5,7 @@ The Vibehut API provides RESTful endpoints for you to interact easily with Vibeh
 
 ## Getting Started
 
-1. Login to Vibehut using any popular social account
+1. Login to [Vibehut.io](https://vibehut.io) using any popular social account. It has ENS Support!
 2. Generate authentication token
 3. Start coding!
 
