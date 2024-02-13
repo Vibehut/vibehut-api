@@ -1,3 +1,4 @@
+![Vibehut.io](images/logo.png)
 # Vibehut API
 
 The Vibehut API provides RESTful endpoints for you to interact easily with Vibehut's data.. so you can help manage and accelerate the good vibes 💪
@@ -54,10 +55,11 @@ axios.get(url, { params, headers })
 
 We want to make time to first lines of code written as fast as possible. Here are some of our most popular endpoints. Please see the documentation below for a comprehensive list.
 
+The root url is always `https://vibehut.io/api/v1/public/` so events is `https://vibehut.io/api/v1/public/events` 
+
 `/events` - create, read, update events
 - commonly used params: roomSlug, roomId, desoPublicKey
 - filterBy [popular, upcoming, new]
-
 
 `/calls` - create new instant call link
 
