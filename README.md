@@ -53,7 +53,7 @@ axios.get(url, { params, headers })
 
 ### Endpoint Highlights
 
-We want to make time to first lines of code written as fast as possible. Here are some of our most popular endpoints. Please see the documentation below for a comprehensive list.
+Getting you started is important. Here are some of our most popular endpoints. Please see the documentation below for a comprehensive list.
 
 The root url is always `https://vibehut.io/api/v1/public/` so events is `https://vibehut.io/api/v1/public/events` 
 
